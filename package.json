@@ -5,12 +5,15 @@
   "description": "Headless CMS for Pulse Blog",
   "scripts": {
     "build": "strapi build",
+    "build:production": "NODE_ENV=production strapi build",
     "console": "strapi console",
     "deploy": "strapi deploy",
     "dev": "strapi develop",
     "develop": "strapi develop",
     "seed:example": "node ./scripts/seed.js",
+    "migrate:sqlite-to-postgres": "bash ./scripts/migrate-sqlite-to-postgres.sh",
     "start": "strapi start",
+    "start:production": "NODE_ENV=production strapi start",
     "strapi": "strapi",
     "upgrade": "npx @strapi/upgrade latest",
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
@@ -18,10 +21,11 @@
   "dependencies": {
     "@strapi/plugin-cloud": "5.12.1",
     "@strapi/plugin-users-permissions": "5.12.1",
+    "@strapi/provider-upload-cloudinary": "^5.12.1",
     "@strapi/strapi": "5.12.1",
-    "better-sqlite3": "11.3.0",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
+    "pg": "^8.22.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
@@ -32,11 +36,12 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "better-sqlite3": "^11.3.0",
     "typescript": "^5"
   },
   "engines": {
-    "node": ">=18.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
+    "node": "22.x",
+    "npm": ">=10.0.0"
   },
   "strapi": {
     "uuid": "6c7c0018-c799-4afb-ba98-0670f29dadbb"
