@@ -3,7 +3,7 @@ services:
     name: strapi-blog-cms
     runtime: node
     plan: free
-    buildCommand: npm install --include=dev && npm run build
+    buildCommand: NODE_ENV=development npm install --include=dev --include=optional && npm run build
     startCommand: npm run start
     healthCheckPath: /_health
     envVars:
