@@ -1,0 +1,244 @@
+{
+    "a-bug-is-becoming-a-meme-on-the-internet": {
+      "description": "How a tiny software glitch turned into one of the web's funniest memes.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## From glitch to global joke\n\nIt started as a harmless rendering bug in a popular app. Screenshots spread on Reddit, then TikTok, then mainstream news. Within days, the bug wasn't a problem anymore — it was a personality. Users began recreating it on purpose, adding captions, and remixing it into songs."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Why bugs go viral\n\nMemes need surprise, relatability, and shareability. A software bug that looks absurd but harmless checks every box. Developers fixed the issue in a patch, but the meme outlived the fix.\n\n- Screenshots travel faster than patch notes\n- Humor lowers the stakes of technical failure\n- Communities remix faster than teams can ship hotfixes"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Mitch Kapor",
+          "body": "Getting information off the internet is like taking a drink from a fire hydrant."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## What developers learned\n\nThe incident showed that user communication matters as much as the fix itself. Acknowledging the bug with humor turned critics into fans. Sometimes the best patch is transparency plus a good meme."
+        }
+      ]
+    },
+    "beautiful-picture": {
+      "description": "A closer look at what makes a photograph truly beautiful and memorable.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## More than pixels\n\nA beautiful picture is rarely about perfect exposure alone. Light, composition, and timing work together to create a feeling — wonder, calm, nostalgia, or joy. The best images don't just show a scene; they invite you to pause and look again."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## The eye behind the lens\n\nGreat photographers chase moments, not just subjects. A street corner at golden hour, rain on a window, a child's laugh — beauty hides in ordinary places.\n\n- Composition guides where the eye travels\n- Natural light often beats heavy editing\n- Emotion matters more than technical perfection"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Ansel Adams",
+          "body": "You don't take a photograph, you make it."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Finding beauty daily\n\nYou don't need expensive gear to make meaningful images. Practice noticing light, patterns, and small details. The habit of looking carefully is what turns everyday scenes into photographs worth sharing."
+        }
+      ]
+    },
+    "exploring-deep-space-missions": {
+      "description": "Inside the probes and rovers pushing humanity farther into the cosmos.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## Beyond Earth's orbit\n\nDeep space missions push engineering to its limits. Voyager, New Horizons, and the James Webb Space Telescope each traveled years — sometimes decades — to answer questions about our solar system and the universe beyond."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## What we learn out there\n\nThese missions reveal ice volcanoes on distant moons, ancient light from newborn galaxies, and clues about whether life could exist elsewhere.\n\n- Long missions demand redundant systems and patient planning\n- Data returns slowly but changes our cosmic perspective\n- International collaboration makes ambitious goals possible"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Carl Sagan",
+          "body": "Somewhere, something incredible is waiting to be known."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Missions on the horizon\n\nUpcoming launches aim to return samples from Mars, map ocean worlds, and deploy next-generation observatories. Each mission builds on the last, turning distant worlds into places we can study — even if only by proxy."
+        }
+      ]
+    },
+    "exploring-the-wonders-of-space": {
+      "description": "From nebulae to black holes, a tour of the universe's greatest sights.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## A universe of wonders\n\nSpace is vast, violent, and breathtaking. Nebulae glow in colors no paint can match. Stars are born in clouds of gas and die in spectacular supernovae. Planets orbit in silence while comets streak across skies humans have watched for millennia."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Why we keep looking up\n\nAstronomy connects science with wonder. Telescopes let us peer into the past, since light from distant objects took millions of years to reach us.\n\n- The night sky is a natural history museum\n- Modern telescopes reveal details invisible to the naked eye\n- Curiosity about space drives innovation on Earth"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Stephen Hawking",
+          "body": "Look up at the stars and not down at your feet."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Wonder in our backyard\n\nYou don't need a billion-dollar telescope to start exploring. Binoculars reveal moons around Jupiter; a dark sky reveals the Milky Way. Space begins the moment you choose to look up."
+        }
+      ]
+    },
+    "the-beauty-of-nature": {
+      "description": "Forests, oceans, and mountains remind us why the natural world matters.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## Nature's quiet power\n\nA forest after rain, waves against cliffs, sunlight through autumn leaves — nature offers beauty without asking for attention. These moments restore focus, lower stress, and remind us that the world is larger than our daily routines."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Protecting what inspires us\n\nBeauty and biodiversity go hand in hand. Healthy ecosystems support wildlife, clean air, and clean water.\n\n- Time outdoors improves mental and physical health\n- Biodiversity keeps ecosystems resilient\n- Conservation starts with noticing what we stand to lose"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "John Muir",
+          "body": "In every walk with nature one receives far more than he seeks."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Small steps, big impact\n\nPlanting native species, reducing waste, and supporting protected areas all help. Nature's beauty is not guaranteed — it depends on the choices we make every day."
+        }
+      ]
+    },
+    "the-future-of-artificial-intelligence": {
+      "description": "How AI is reshaping work, creativity, medicine, and everyday life worldwide.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## Intelligence at scale\n\nArtificial intelligence is no longer confined to research labs. Models can write, code, diagnose images, translate languages, and assist with complex decisions. The technology is moving fast — and so are the conversations about how to use it responsibly."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Opportunities and questions\n\nAI could accelerate scientific discovery, personalize education, and automate tedious tasks. It also raises concerns about bias, job displacement, privacy, and accountability.\n\n- AI works best as a tool alongside human judgment\n- Transparency and testing reduce harmful outcomes\n- Public dialogue should shape how systems are deployed"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Fei-Fei Li",
+          "body": "AI is not about replacing people. It's about amplifying human potential."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Building AI we can trust\n\nThe next chapter of AI depends on clear standards, diverse teams, and systems designed for real people. Technology that helps society must be tested, explained, and held accountable — not shipped and forgotten."
+        }
+      ]
+    },
+    "the-future-of-technology": {
+      "description": "Emerging trends in computing, connectivity, and design shaping tomorrow.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## The next wave of innovation\n\nTechnology evolves in cycles: faster chips, smarter devices, new platforms, new habits. Today, cloud computing, edge devices, augmented reality, and sustainable hardware are converging. What feels experimental now may become essential within a decade."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Building tech that serves people\n\nThe best future technologies solve real problems without creating new ones. Accessibility, energy efficiency, security, and privacy are core requirements.\n\n- Connectivity is becoming ambient and invisible\n- Sustainability is a design constraint, not an afterthought\n- User trust determines long-term adoption"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Alan Kay",
+          "body": "The best way to predict the future is to invent it."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Choosing what comes next\n\nInnovation is not inevitable — it follows priorities. Investing in open standards, digital literacy, and ethical design helps ensure tomorrow's tools empower rather than exclude."
+        }
+      ]
+    },
+    "the-rise-of-electric-vehicles": {
+      "description": "Why EV sales are surging and what it means for drivers, cities, and the planet.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## A shift on the road\n\nElectric vehicles have moved from niche curiosity to mainstream choice. Better batteries, longer ranges, and expanding charging networks make EVs practical for more drivers every year. Automakers are redesigning lineups around electric platforms."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Benefits and growing pains\n\nEVs cut tailpipe emissions, reduce noise in cities, and lower fueling costs for many owners. Challenges remain around charging gaps, battery recycling, and upfront prices.\n\n- Home and public charging networks are expanding rapidly\n- Battery costs continue to fall over time\n- Fleet electrification is transforming commercial transport"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Elon Musk",
+          "body": "The electric car is not just a cleaner alternative — it's a better car."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## The road ahead\n\nPolicy support, grid upgrades, and smarter charging software will determine how quickly EVs become the default. For many drivers, the transition is already underway — one charge at a time."
+        }
+      ]
+    },
+    "the-internet-s-own-boy": {
+      "description": "The story of Aaron Swartz and the fight for an open, accessible internet.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## A mind built for the web\n\nAaron Swartz helped shape the modern internet early. He co-created RSS, contributed to Reddit's foundation, and campaigned for open access to knowledge. He believed information locked behind paywalls slowed progress and limited who could participate."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Legacy and lessons\n\nSwartz's work sparked debates about copyright, academic publishing, and digital activism that continue today. His story is a reminder that technology is never neutral.\n\n- Open standards empower creators and readers alike\n- Access to knowledge affects equality and opportunity\n- Activism and engineering can change systems together"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Aaron Swartz",
+          "body": "Information is power. But like all power, there are those who want to keep it for themselves."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## An open internet worth defending\n\nSwartz argued that a free and open web benefits everyone — researchers, students, creators, and citizens. That vision remains urgent as platforms, paywalls, and algorithms reshape who gets to read, learn, and publish."
+        }
+      ]
+    },
+    "this-shrimp-is-awesome": {
+      "description": "Meet the mantis shrimp — nature's tiny powerhouse with incredible vision.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## Small but extraordinary\n\nThe mantis shrimp is not your average crustacean. Some species punch with the force of a bullet, cracking shells and stunning prey in milliseconds. Others display colors so vivid they look unreal."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Eyes that see what we cannot\n\nMantis shrimp vision is legendary. They detect polarized light and perceive a broader range of colors than humans. Their compound eyes inspire camera and sensor design.\n\n- Their strike is among the fastest movements in the animal kingdom\n- Complex eyes may have a dozen or more photoreceptor types\n- Biomimicry turns their designs into human technology"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Sylvia Earle",
+          "body": "With every drop of water you drink, every breath you take, you're connected to the sea."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## A reminder from the reef\n\nCreatures like the mantis shrimp show how much we still have to learn from the ocean. Protecting marine habitats isn't just environmentalism — it's how we preserve nature's most ingenious laboratories."
+        }
+      ]
+    },
+    "what-s-inside-a-black-hole": {
+      "description": "What science says — and doesn't know — about black holes and their cores.",
+      "blocks": [
+        {
+          "__component": "shared.rich-text",
+          "body": "## Gravity with no escape\n\nA black hole forms when enough mass collapses into a tiny region. Its gravity is so strong that not even light can escape beyond the event horizon. From outside, we see accretion disks, jets, and gravitational effects on nearby stars."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## The mystery at the center\n\nPhysics breaks down at the singularity, where density may become infinite in our current theories. Quantum gravity and new observations keep the debate alive.\n\n- Event horizons mark the point of no return\n- Supermassive black holes sit at the hearts of galaxies\n- LIGO detections confirmed ripples in spacetime from mergers"
+        },
+        {
+          "__component": "shared.quote",
+          "title": "Kip Thorne",
+          "body": "Black holes are where the laws of physics go to be tested."
+        },
+        {
+          "__component": "shared.rich-text",
+          "body": "## Science at the edge\n\nWe may never visit a black hole, but they are cosmic laboratories for the deepest laws of nature. Every new observation narrows the gap between theory and the strangest objects in the universe."
+        }
+      ]
+    }
+  }
