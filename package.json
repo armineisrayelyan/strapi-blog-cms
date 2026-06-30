@@ -12,6 +12,8 @@
     "develop": "strapi develop",
     "seed:example": "node ./scripts/seed.js",
     "migrate:sqlite-to-postgres": "bash ./scripts/migrate-sqlite-to-postgres.sh",
+    "migrate:uploads-to-cloudinary": "node ./scripts/migrate-uploads-to-cloudinary.js",
+    "migrate:uploads-to-cloudinary:dry-run": "node ./scripts/migrate-uploads-to-cloudinary.js --dry-run",
     "start": "strapi start",
     "start:production": "NODE_ENV=production strapi start",
     "strapi": "strapi",
