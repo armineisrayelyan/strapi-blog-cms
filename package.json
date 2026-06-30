@@ -5,7 +5,7 @@
   "description": "Headless CMS for Pulse Blog",
   "scripts": {
     "build": "strapi build",
-    "render:build": "NODE_ENV=development npm install --include=dev --include=optional && npm rebuild @swc/core esbuild && npm run build",
+    "render:build": "NODE_ENV=development npm install --include=dev --include=optional && npm rebuild esbuild @swc/core rollup && npm run build",
     "build:production": "NODE_ENV=production strapi build",
     "console": "strapi console",
     "deploy": "strapi deploy",
@@ -48,6 +48,7 @@
   },
   "optionalDependencies": {
     "@esbuild/linux-x64": "0.28.1",
+    "@rollup/rollup-linux-x64-gnu": "4.62.2",
     "@swc/core-linux-x64-gnu": "1.15.43"
   },
   "strapi": {
